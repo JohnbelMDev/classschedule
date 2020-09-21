@@ -1,8 +1,8 @@
 
 <h1>User should be able to input the class and submit a form to calculate how much free time they have</h1>
 
-![Alt Text](https://raw.githubusercontent.com/JohnbelMDev/Fullstack-App-w-User-Login/master/fire.png)
-![Alt Text](https://github.com/JohnbelMDev/Fullstack-App-w-User-Login/blob/master/complete%20fullstack%20login%20%20/image4.png)
+![Alt Text](https://raw.githubusercontent.com/JohnbelMDev/classschedule/master/profile.png)
+![Alt Text](https://raw.githubusercontent.com/JohnbelMDev/classschedule/master/page.png)
 
 
 
